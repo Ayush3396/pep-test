@@ -1,5 +1,9 @@
 # JavaScript Placement Prep 🚀
 
+
+Submitted by: Ayush  
+Roll No: 14
+
 **For 3rd Year Engineering & Science Students**
 
 This repository is designed to be your **last-minute revision guide** and **coding practice hub** for JavaScript interviews. It focuses on the core concepts asked in placement interviews for Front-End (React) and Back-End (Node.js) roles.
@@ -27,3 +31,4 @@ This repository is designed to be your **last-minute revision guide** and **codi
 - Be ready to explain **event loop** and **closures** on a whiteboard.
 
 Happy Coding & Good Luck for Placements! 🎓
+ 
